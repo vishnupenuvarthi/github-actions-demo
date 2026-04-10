@@ -1,0 +1,14 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "test": "node test.js",
+  "build": "echo Building project..."
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
